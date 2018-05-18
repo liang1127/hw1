@@ -1,6 +1,6 @@
 [Project]
-FileName=程式作業.dev
-Name=專案1
+FileName=hw2.dev
+Name=專案2
 Type=1
 Ver=2
 ObjFiles=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=1
+IsCpp=0
 Icon=
 ExeOutput=
 ObjectOutput=

@@ -1,11 +1,11 @@
-#include <iostream>
-#include<stdio.h> 
+#include <stdio.h>
+#include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char** argv) 
+int main(int argc, char *argv[]) 
 {
-	int season;
+		int season;
 	
 	printf("請輸入月份(1~12)\n");
 	scanf("%d",&season);
