@@ -1,4 +1,4 @@
-void bubbleSort( const int * array ,int size)				 //盽计戈獶盽计夹	 
+void bubbleSort( const int const * array ,int size)				 //盽计戈盽计夹	 
 {
 	void swap( int *element1Ptr, int *element2Ptr);
 	int j,n;
