@@ -1,7 +1,7 @@
 #include <stdio.h>	/* 氣泡排序法 Bubble Sort */
 #define SIZE 10
 
-void bubbleSort(int * const  array, int size);			//指向非常數資料的常數指標	
+void bubbleSort( const int *  array, int size);			//指向常數資料的非常數指標	
 	
 int main(void)
 {
